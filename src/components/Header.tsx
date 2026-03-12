@@ -31,7 +31,7 @@ export function Header() {
 
       <Button
         variant="outline"
-        className="rounded-full border-violet-500 text-violet-400 hover:bg-violet-500/10 hover:text-violet-300 bg-transparent"
+        className="rounded-full border-emerald-500 text-emerald-400 hover:bg-emerald-500/10 hover:text-emerald-300 bg-transparent"
       >
         Подключиться
       </Button>
@@ -42,10 +42,10 @@ export function Header() {
 function NLPLogo() {
   return (
     <svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-      <rect x="2" y="2" width="11" height="11" rx="3" fill="#8B5CF6" />
-      <rect x="15" y="2" width="11" height="11" rx="3" fill="#8B5CF6" opacity="0.5" />
-      <rect x="2" y="15" width="11" height="11" rx="3" fill="#8B5CF6" opacity="0.5" />
-      <rect x="15" y="15" width="11" height="11" rx="3" fill="#8B5CF6" opacity="0.25" />
+      <rect x="2" y="2" width="11" height="11" rx="3" fill="#10b981" />
+      <rect x="15" y="2" width="11" height="11" rx="3" fill="#10b981" opacity="0.5" />
+      <rect x="2" y="15" width="11" height="11" rx="3" fill="#10b981" opacity="0.5" />
+      <rect x="15" y="15" width="11" height="11" rx="3" fill="#10b981" opacity="0.25" />
     </svg>
   )
 }

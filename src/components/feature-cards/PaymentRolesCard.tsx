@@ -28,7 +28,7 @@ export function PaymentRolesCard() {
               <p className="text-xs text-gray-500">Поддержка 24/7</p>
             </div>
           </div>
-          <button className="text-sm text-violet-400 hover:text-violet-300">Связаться</button>
+          <button className="text-sm text-emerald-400 hover:text-emerald-300">Связаться</button>
         </div>
 
         <div>
@@ -53,7 +53,7 @@ export function PaymentRolesCard() {
                 <p className="text-xs text-gray-500">Счёт ••0000 · Подключить эквайринг</p>
               </div>
             </div>
-            <button className="text-sm text-violet-400 hover:text-violet-300">Настроить</button>
+            <button className="text-sm text-emerald-400 hover:text-emerald-300">Настроить</button>
           </div>
         </div>
 

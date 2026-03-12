@@ -44,7 +44,7 @@ export function LinkAccountsCard() {
                 <p className="text-xs text-gray-500">{merchant.info}</p>
               </div>
             </div>
-            <span className="text-xs text-violet-500/70">{merchant.code}</span>
+            <span className="text-xs text-emerald-500/70">{merchant.code}</span>
           </div>
         ))}
 

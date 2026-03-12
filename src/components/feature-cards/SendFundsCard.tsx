@@ -44,7 +44,7 @@ export function SendFundsCard() {
 
         <div>
           <label className="mb-2 flex items-center gap-1 text-xs text-gray-400">
-            Назначение платежа <span className="text-violet-400">*</span> (Необязательно)
+            Назначение платежа <span className="text-emerald-400">*</span> (Необязательно)
           </label>
           <div className="relative">
             <textarea
@@ -56,7 +56,7 @@ export function SendFundsCard() {
         </div>
 
         <div className="flex items-center justify-between pt-2">
-          <Switch className="data-[state=checked]:bg-violet-600" />
+          <Switch className="data-[state=checked]:bg-emerald-600" />
           <span className="text-sm text-gray-400">Регулярный платёж</span>
         </div>
       </div>
