@@ -9,8 +9,8 @@ export function SendFundsCard() {
         <Zap className="h-5 w-5 text-gray-400" />
       </div>
 
-      <h3 className="mb-2 text-lg font-semibold text-white">Мгновенные переводы</h3>
-      <p className="mb-4 text-sm text-gray-400">Платите клиентам, партнёрам и поставщикам за секунды без задержек</p>
+      <h3 className="mb-2 text-lg font-semibold text-white">Мгновенный интернет-эквайринг</h3>
+      <p className="mb-4 text-sm text-gray-400">Принимайте и отправляйте платежи онлайн — клиентам, партнёрам и поставщикам за секунды</p>
 
       <a href="#" className="mb-6 inline-flex items-center text-sm text-gray-400 hover:text-white transition-colors">
         Подробнее <ArrowUpRight className="ml-1 h-4 w-4" />
